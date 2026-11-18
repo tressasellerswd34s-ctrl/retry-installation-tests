@@ -1,0 +1,2 @@
+# retry-installation-tests
+PinOptionalRuntimeDependencies
